@@ -24,6 +24,11 @@ MATLAB运动仿真
 
 
 
+有趣的Kreisel效果
+
+
+
+
 Motionview 3D仿真
 
 
