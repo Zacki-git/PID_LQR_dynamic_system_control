@@ -14,6 +14,10 @@
 
 控制器LQR
 
+v = 1m/s with LQR
+
+![image](https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/LQR_1m_s.gif)
+
 
 MATLAB运动仿真
 
