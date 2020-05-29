@@ -4,7 +4,7 @@
 编辑中
 动机
 
-
+![image](https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/fahrt_ba.gif)
 
 运动学理论
 
