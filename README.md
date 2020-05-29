@@ -9,6 +9,12 @@
 运动学理论
 
 
+
+
+![image](https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/e_v_diagram_video.gif)
+
+
+
 控制器PID
 
 
