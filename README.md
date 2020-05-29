@@ -23,5 +23,5 @@ MATLAB运动仿真
 Motionview 3D仿真
 
 
-
+![image](https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/last%20movie.gif)
 
