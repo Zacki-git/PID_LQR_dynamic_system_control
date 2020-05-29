@@ -26,7 +26,7 @@ MATLAB运动仿真
 
 有趣的Kreisel效果
 
-
+![image](https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/Kreisel_effect.gif)
 
 
 Motionview 3D仿真
