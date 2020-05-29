@@ -32,8 +32,9 @@ v = 1m/s with LQR
 MATLAB运动仿真
 
 PID vs LQR
-![image]https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/LQR_move_turn_straight.gif
-![image]https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/PID_move_turn_straight.gif
+
+![image](https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/LQR_move_turn_straight.gif)
+![image](https://github.com/Zacki-git/PID_LQR_dynamic_system_control/blob/master/PID_move_turn_straight.gif)
 
 有趣的Kreisel效果
 
